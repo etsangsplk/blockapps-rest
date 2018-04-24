@@ -1,5 +1,10 @@
 ## RELEASE NOTES
 
+### Version: 5.1.6
+
+#### Minor upgrades
+* `assert.shouldThrowRest` added. Checks if a generator function threw a specified RestError
+
 ### Version: 5.1.5
 
 #### Minor upgrades
